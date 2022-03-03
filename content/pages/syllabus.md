@@ -19,7 +19,7 @@ About half the course will be based on notes from a previous lecture series. Som
 Textbook
 --------
 
-There is no required text, although I have included an extensive {{< resource_link db4a8a5a-f4f9-c606-4548-a31d1683a8f9 "bibliography" >}}.
+There is no required text, although I have included an extensive {{% resource_link db4a8a5a-f4f9-c606-4548-a31d1683a8f9 "bibliography" %}}.
 
 The main text on hyperplane arrangements is: Orlik, P., and H. Terao. _Arrangements of Hyperplanes._ New York: Springer-Verlag, 1992.
 
