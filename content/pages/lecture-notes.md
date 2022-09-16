@@ -1,5 +1,12 @@
 ---
 content_type: page
+description: This section provides lecture notes on hyperplane arrangements based
+  on a lecture series at the Park City Mathematics Institute, July 12-19, 2004. They
+  provide an introduction to hyperplane arrangements, focusing on connections with
+  combinatorics, at the beginning graduate student level. Background material on posets
+  and matroids is included, as well as numerous exercises. After going through these
+  notes a student should be ready to study the deeper algebraic and topological aspects
+  of the theory of hyperplane arrangements.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

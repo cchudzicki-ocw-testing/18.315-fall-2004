@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides problem sets assigned for the course and a note
+  on difficulty ratings.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
